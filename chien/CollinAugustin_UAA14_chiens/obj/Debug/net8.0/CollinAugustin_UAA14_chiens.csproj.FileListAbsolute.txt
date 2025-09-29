@@ -1,0 +1,14 @@
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\bin\Debug\net8.0\CollinAugustin_UAA14_chiens.exe
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\bin\Debug\net8.0\CollinAugustin_UAA14_chiens.deps.json
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\bin\Debug\net8.0\CollinAugustin_UAA14_chiens.runtimeconfig.json
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\bin\Debug\net8.0\CollinAugustin_UAA14_chiens.dll
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\bin\Debug\net8.0\CollinAugustin_UAA14_chiens.pdb
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\obj\Debug\net8.0\CollinAugustin_UAA14_chiens.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\obj\Debug\net8.0\CollinAugustin_UAA14_chiens.AssemblyInfoInputs.cache
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\obj\Debug\net8.0\CollinAugustin_UAA14_chiens.AssemblyInfo.cs
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\obj\Debug\net8.0\CollinAugustin_UAA14_chiens.csproj.CoreCompileInputs.cache
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\obj\Debug\net8.0\CollinAugustin_UAA14_chiens.dll
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\obj\Debug\net8.0\refint\CollinAugustin_UAA14_chiens.dll
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\obj\Debug\net8.0\CollinAugustin_UAA14_chiens.pdb
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\obj\Debug\net8.0\CollinAugustin_UAA14_chiens.genruntimeconfig.cache
+H:\UAA14_2025.2026\chien\CollinAugustin_UAA14_chiens\obj\Debug\net8.0\ref\CollinAugustin_UAA14_chiens.dll

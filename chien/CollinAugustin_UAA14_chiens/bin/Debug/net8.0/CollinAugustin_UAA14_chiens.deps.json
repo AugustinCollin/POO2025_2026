@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CollinAugustin_UAA14_chiens/1.0.0": {
+        "runtime": {
+          "CollinAugustin_UAA14_chiens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CollinAugustin_UAA14_chiens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
